@@ -1,27 +1,27 @@
-
-![Intro](/assets/images/keepdocgraf.jpg)
-
-
-# Getting Started
-In this guide, you'll find all the information you need to stake on the Keep Network and start earning rewards.
-
-## Basic Description - tl;dr
-The Keep Network's native token, a KEEP, powers the network and undergirds all the apps that are and will be built on it. Anyone with KEEP tokens can stake them, setting them aside as collateral for Keep Network operations.
-
-Staked tokens are delegated by a KEEP token holder to an operator address, who performs work on the network. This work contribution is rewarded, but if an operator misbehaves and doesn't follow their operator contract, their collateral can be taken away (stake slashing) as punishment.
+! [Introduzione] (/ assets / images / keepdocgraf.jpg)
 
 
-## Contents
+# All'inizio
+In questa guida troverai tutte le informazioni necessarie per diventare uno staker di Keep Network e iniziare a guadagnare premi.
 
-- [Introduction](basics/intro.md) : Intro and context to Keep and tBTC.
-- [Key Reasons for Staking in Keep Network:](Reasons/reasons.md) Understand why it is meaningful to stake in Keep Network.
-- [Comparison with Other Alternatives:](comparison/comparesimilar.md) Compare Keep Staking with other staking alternatives currently available in crypto.
-- [Staking Documentation:](stakingdoc/keep101.md) Official Keep Team's documentation about staking. 
-- [Staking Options:](stakingdoc/stakingoptions.md) With staking partners or on your own node running on a server.
-- [Node Operation:](Node-Operation/intro-operation.md) Deploy, Manage, Troubleshoot your own node.
-- Keep Token Dashboard: Token Dashboard official user guide.
+## Descrizione generale - tl; dr
+KEEP è il token principale di Keep Network. Tutte le applicazioni sul Web sono o saranno costruite su di esso. Qualsiasi proprietario di token KEEP può metterli in gioco come garanzia per garantire il funzionamento del Keep Network.
+
+I token bloccati vengono delegati dal proprietario di KEEP all'indirizzo dell'operatore, che a sua volta esegue il lavoro sulla rete. Questo lavoro viene ricompensato, ma se l'operatore si comporta in modo disonesto e non adempie ai suoi obblighi, tutti i gettoni delegati possono essere portati via come penalità (taglio).
+
+
+## Contenuti
+
+- [Introduzione:] (basi / intro.md): Introduzione a Keep Network e tBTC.
+- [Motivi principali per puntare su Keep Network:] (Reasons / reason.md) Comprendi perché ha senso scommettere su Keep Network.
+- [Confronto con alternative:] (comparazione / comparazione.md) Confronta Keep Staking con le alternative attualmente disponibili in criptovaluta.
+- [Documentazione sullo staking:] (stakingdoc / keep101.md) Conserva la documentazione ufficiale del Team sullo staking.
+- [Opzioni di staking:] (stakingdoc / stakingoptions.md) Con i partner o sul tuo server (nodo).
+- [Varianti di nodi:] (Node-Operation / intro-operation.md) Avvia, gestisci, risolvi i problemi sul tuo nodo.
+- https://dashboard.keep.network/ Dashboard ufficiale di Keep Network.
 
 ---
-`Sourced from Keep Team's official documentation and edited & completed by community.`[Source](https://keep-network.gitbook.io/staking-documentation/)
+`Fonte dalla documentazione ufficiale di Keep Team, modificata e aggiunta dalla comunità. "[Fonte] (https://keep-network.gitbook.io/staking-documentation/)"
 
-`Contributors: Ramaruro, EstebanK`
+ʻAutori: Ramaruro, EstebanK`
+`Traduzione: weraanrktl#7699`
