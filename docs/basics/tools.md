@@ -1,212 +1,209 @@
-# Useful Keep Community Doc & Tools 
-There are a lot of very useful tools and docs developed by prominent Keep community members in the last month of September 2020. Here is a list :
+# Documenti e strumenti utili Keep community
+Ci sono molti strumenti e documenti utili sviluppati dai membri della comunità Keep entro settembre 2020. Ecco un elenco:
 
 
-?> Don't forget to checkout [Node Operation Section](https://estebank97.github.io/Keep-Node-Docs/#/Node-Operation/intro-operation) as well, where you can find lot of docs, guides and how-to's and further assistance on deploying, maintaining, monitoring and troubleshooting your Nodes.
+?> Non dimenticare di controllare la [Sezione Operazioni sui nodi] (https://tony-sh.github.io/Keep-Node-Docs-Russia/#/Node-Operation/intro-operation) dove puoi trovare molti documenti, manuali e istruzioni, nonché ulteriore aiuto per l'avvio, la manutenzione, il monitoraggio e la risoluzione dei problemi dei nodi.
 
 ## Keepnode.app
-Node Operation Assistance Tool
+Strumento di supporto dei nodi.
 
 
-**Herobrine’s :** [Keepnode App](https://keepnode.app/checknode.html](https://keepnode.app/checknode.html)
-- easily identify balances, stake, bonds,rewards & issues on your node
-- check a node’s availability
-- for mainnet & testnet operators
-<p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94490632-fcb2fc80-01bc-11eb-998b-ef5fcda64c5e.png">
+** Herobrine: ** [Keepnode App] (https://keepnode.app/checknode.html] (https://keepnode.app/checknode.html)
+- definire facilmente saldi, picchettamento, collaterali, premi e problemi sul tuo nodo
+- verifica la disponibilità del nodo
+- reti mainnet e testnet
+<p align = "center">
+  <img width = "450" ​​src = "https://user-images.githubusercontent.com/68087535/94490632-fcb2fc80-01bc-11eb-998b-ef5fcda64c5e.png">
 </p>
 
 ## Keeping.surge.sh
-Node Operation Assistance Tool
+Strumento di supporto dei nodi.
 
 
-**Ssh’s :** [Keeping.surge.sh](https://keeping.surge.sh/)
-- identify keep stake, deposits, eth bonds, state & issues on your node
-- very handy shows current prices on ETH/USD, BTC/USD, ETH/BTC
-- for mainnet operators
-<p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94490819-616e5700-01bd-11eb-845f-2555b98dcd88.png">
+** Ssh: ** [Keeping.surge.sh] (https://keeping.surge.sh/)
+- determinare la bistecca, i depositi, le garanzie, lo stato e i problemi del nodo
+- comoda visualizzazione delle tariffe ETH / USD, BTC / USD, ETH / BTC
+- rete mainnet
+<p align = "center">
+  <img width = "450" ​​src = "https://user-images.githubusercontent.com/68087535/94490819-616e5700-01bd-11eb-845f-2555b98dcd88.png">
 </p>
 
-## Keep Dashboard Mobile
-Node Operators Keep Dashboard DAPP Mobile version
+## Mantieni Dashboard mobile
+Mantieni mobile Dashboard DAPP
 
-**KOTeggg's :** [Keep Dashboard Mobile](https://keepdashboard.app/)
+** KOTeggg: ** [Keep Dashboard Mobile] (https://keepdashboard.app/)
 
-- available on App Store and Google Play!
+- disponibile su App Store e Google Play!
 
-<p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94715046-546b7800-0323-11eb-97ce-a6fa6f3bcd91.png">
+<p align = "center">
+  <img width = "450" ​​src = "https://user-images.githubusercontent.com/68087535/94715046-546b7800-0323-11eb-97ce-a6fa6f3bcd91.png">
 </p>
 
-## Mainnet Contracts
-Node Contracts List
+## Contratti mainnet
+Elenco dei contratti
 
 
-**Ssh’s :** [Mainnet Contracts List](https://gist.github.com/knarz/034654b56096f99aa857bdaebe6c8710)
-- for mainnet node migration
-<p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94491079-e2c5e980-01bd-11eb-96ad-e5d2ad1707c7.png">
-</p>
-
-
-## Node Running Risks
-Node Operation Assistance Guide
-
-**Ssh's :** [Keep Nodes Risks - Liquidation and Slashing Details](https://hackmd.io/@protocollayer/BkUBl7zIw)
-- better assess the risks of running Keep Network Nodes
-
-<p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94718480-2d637500-0328-11eb-8b28-d9b1fd4e323e.png">
-</p>
-
-## Keep Staking Risks and Mitigation
-Node Operation Assistance Guide
-
-**StateLayer's :** [Keep stakedrop risks and mitigation strategiess](https://hackmd.io/@LayerState/KeepStakedropRisks)
-- different ways you could lose the ETH you staked
-- different ways you could mitigate these risks
-
-<p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94726467-ac11df80-0333-11eb-85c5-7ab76c70bc7a.png">
+** Ssh: ** [Mainnet Contracts List] (https://gist.github.com/knarz/034654b56096f99aa857bdaebe6c8710)
+<p align = "center">
+  <img width = "450" ​​src = "https://user-images.githubusercontent.com/68087535/94491079-e2c5e980-01bd-11eb-96ad-e5d2ad1707c7.png">
 </p>
 
 
+## Avvio dei nodi
+Supporto dei nodi e guida operativa
 
+** Ssh: ** [Keep Nodes Risks - Liquidation and Slashing Details] (https://hackmd.io/@protocollayer/BkUBl7zIw)
+- è meglio familiarizzare prima di avviare Keep Network nodes
 
-
-## Node Operation Error lists
-Node Errors guide
-
-
-**Nico186’s :** [ECDSA and Random Beacon Warning Logs](https://docs.google.com/document/u/2/d/e/2PACX-1vRYtVyLSwuNBL9Xk-M1HeHloJ7MIGqwiEzsuXYnKHQqnSz2gfd2Q3czJeOzEferPKIr7GvIznQxsckb/pub)
-- Nice common errors list with explanations and proposed solutions
-- complementing with [Troubleshooting Section](https://estebank97.github.io/Keep-Node-Docs/#/Node-Operation/troubleshooting)
-- for all operators
-<p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94491165-16087880-01be-11eb-9206-72467688f309.png">
+<p align = "center">
+  <img width = "450" ​​src = "https://user-images.githubusercontent.com/68087535/94718480-2d637500-0328-11eb-8b28-d9b1fd4e323e.png">
 </p>
 
-## Monitoring Guide
-Node Monitoring guide
+## Continua a puntare rischi e soluzioni
+Strumento di supporto dei nodi.
 
+** StateLayer: ** [Mantieni rischi di stakedrop e strategie di mitigazione] (https://hackmd.io/@LayerState/KeepStakedropRisks)
+- diversi modi per perdere l'ETH puntato
+- diversi modi per ridurre i rischi
 
-**Pantsme’s :** [Monitoring for ECDSA and Random Beacon](https://gist.github.com/afmsavage/7c8a9ccf085bedbc0a2880472a9ef984)
-- Complementing with [MutedTommy’s Monitoring Guide](https://estebank97.github.io/Keep-Node-Docs/#/Node-Operation/monitoring)
-- for all operators
-<p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94491286-536d0600-01be-11eb-8ce6-287b5fbf6ea1.png">
+<p align = "center">
+  <img width = "450" ​​src = "https://user-images.githubusercontent.com/68087535/94726467-ac11df80-0333-11eb-85c5-7ab76c70bc7a.png">
 </p>
 
-**Grebykirr's :** [Monitoring Guide](https://medium.com/@grebenkin.kirill5/how-to-install-and-configure-elasticsearch-logstash-beats-and-kibana-for-monitoring-keep-docker-f84efd58b48f)
-- Monitoring in another interesting way, using Elasticsearch, Logstash, Beats and Kibana.  
-- for all operators
-<p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94716658-8ed61480-0325-11eb-8ea9-10f73dfa8cce.png">
+
+
+
+
+## Elenco degli errori del nodo
+Guida agli errori
+
+
+** Nico186: ** [ECDSA and Random Beacon Warning Logs] (https://docs.google.com/document/u/2/d/e/2PACX-1vRYtVyLSwuNBL9Xk-M1HeHloJ7MIGqwiEzsuXYnKHQqnSzczfJed2Qr3)
+- Bella lista di errori comuni con spiegazioni e soluzioni suggerite
+- Aggiunte [sezione Risoluzione dei problemi] (https://tony-sh.github.io/Keep-Node-Docs-Russia/#/Node-Operation/troubleshooting)
+- reti mainnet e testnet
+<p align = "center">
+  <img width = "450" ​​src = "https://user-images.githubusercontent.com/68087535/94491165-16087880-01be-11eb-9206-72467688f309.png">
 </p>
 
-## Keep Backups
-Node Backups Guide
-
-**Suprnrdy's :** [Keep Backups](https://www.notion.so/parleylabs/KEEP-BACKUPS-42a73ee62fb74c8193669c00b739265f)
-- If you're running a mainnet node and you're not backing up your data yet, remember
-- You’re storing a key to a deposit so you want to make sure that key is backed up incase of loss
-- make sure you start doing it now, because you never want to lose any of your data, you can loose your bond !
-- tutorial using Backblaze B2 + RClone
+## Guida al monitoraggio
+Guida al monitoraggio dei nodi
 
 
-<p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94620605-47984700-0285-11eb-8439-7e6897b55d7f.png">
+** Pantsme: ** [Monitoraggio per ECDSA e Random Beacon] (https://gist.github.com/afmsavage/7c8a9ccf085bedbc0a2880472a9ef984)
+- Supplementi [Guida al monitoraggio di MutedTommy] (https://tony-sh.github.io/Keep-Node-Docs-Russia/#/Node-Operation/monitoring)
+- reti mainnet e testnet
+<p align = "center">
+  <img width = "450" ​​src = "https://user-images.githubusercontent.com/68087535/94491286-536d0600-01be-11eb-8ce6-287b5fbf6ea1.png">
+</p>
+
+** Grebykirr: ** [Guida al monitoraggio] (https://medium.com/@grebenkin.kirill5/how-to-install-and-configure-elasticsearch-logstash-beats-and-kibana-for-monitoring-keep- docker-f84efd58b48f)
+- Monitoraggio in modo diverso utilizzando Elasticsearch, Logstash, Beats e Kibana.
+- reti mainnet e testnet
+<p align = "center">
+  <img width = "450" ​​src = "https://user-images.githubusercontent.com/68087535/94716658-8ed61480-0325-11eb-8ea9-10f73dfa8cce.png">
+</p>
+
+## Conserva i backup
+Guida ai backup dei nodi
+
+** Suprnrdy: ** [Keep Backups] (https://www.notion.so/parleylabs/KEEP-BACKUPS-42a73ee62fb74c8193669c00b739265f)
+- Se stai utilizzando il nodo mainnet e non hai effettuato un backup, ricorda
+- Tieni la chiave dal deposito, quindi la chiave deve essere salvata in caso di smarrimento
+- Non perdere i tuoi dati - potresti perdere il tuo deposito!
+- la guida utilizza Backblaze B2 + RClone
+
+
+<p align = "center">
+  <img width = "450" ​​src = "https://user-images.githubusercontent.com/68087535/94620605-47984700-0285-11eb-8439-7e6897b55d7f.png">
 </p>
 
 ## Keeptools.org
-Node Creation Tool
+Strumenti del nodo
 
-
-**kferret’s :** [Keeptools.org/](https://keeptools.org/)
-- Excelent utilities & tools site which includes:
-- Automated config.toml generation 
-- Automated ecdsa & random beacon dockers run command
-- info about faucets, contracts & repos
-- with testnet and mainnet information
-<p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94492232-346f7380-01c0-11eb-8e61-5f641c6d80de.png">
+** kferret: ** [Keeptools.org/] (https://keeptools.org/)
+- Ottimo sito con utilità e strumenti tra cui:
+- Generazione automatica di config.toml
+- Comandi di avvio ecdsa e dockers casuali beacon
+- informazioni su contratti e archivi
+- informazioni su testnet e mainnet
+<p align = "center">
+  <img width = "450" ​​src = "https://user-images.githubusercontent.com/68087535/94492232-346f7380-01c0-11eb-8e61-5f641c6d80de.png">
 </p>
 
 ## 1click-keep.com
-Node Creation Tool
+Node Launcher
 
 
-**ИльяBazilik's :** [1click-keep.com](http://1click-keep.com/)
-- This web application allows you to run a KEEP node on a newly created server
-- without using the console and without having to go to your server!
-- should have completed previous infura and wallet steps (check Deploy your nodes section)
-<p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94489471-e3a94c00-01ba-11eb-9c8e-e89f2779d3dc.png">
+** IlyaBazilik's: ** [1click-keep.com] (http://1click-keep.com/)
+- Applicazioni Web per eseguire nodi KEEP su un nuovo server
+- senza usare un terminale!
+- i passaggi di infura e un portafoglio devono essere pronti (per maggiori dettagli, vedere "Eseguire i nodi")
+<p align = "center">
+  <img width = "450" ​​src = "https://user-images.githubusercontent.com/68087535/94489471-e3a94c00-01ba-11eb-9c8e-e89f2779d3dc.png">
 </p>
 
-## Most simple Nodes installation on one VPS
-Node Creation Tool
+## Molto facile eseguire i nodi su un VPS
+Node Launcher
 
 
-**Alterkhan's :** [Most simple guide of how to install both Random Beacon and ECDSA Keep Network nodes on one VPS ](https://steemit.com/keepnetwork/@coinsniperx/the-most-simple-guide-of-how-to-install-both-random-beacon-and-ecdsa-keep-network-nodes-on-one-vps)
-- Visual step-bys-step guide to install your nodes
-- very complete, includes all steps needed
-<p align="center">
-  <img width="450" src="https://steemitimages.com/1280x0/https://cdn.steemitimages.com/DQmTWqZawot34WSqesHKhUJgrrr55tXUr9YDCtd7sND7i2U/nodes%20guide.png">
+** Alterkhan: ** [La guida più semplice su come installare i nodi Random Beacon ed ECDSA Keep Network su un VPS] (https://steemit.com/keepnetwork/@coinsniperx/the-most-simple-guide-of- how-to-install-both-random-beacon-and-ecdsa-keep-network-nodes-on-one-vps)
+- Guida passo passo con immagini
+- Un modo molto completo e affidabile
+<p align = "center">
+  <img width = "450" ​​src = "https://steemitimages.com/1280x0/https://cdn.steemitimages.com/DQmTWqZawot34WSqesHKhUJgrrr55tXUr9YDCtd7sND7i2U/nodes%20guide.png">
 </p>
 
-## Keep_Nodes -  Windows 10 Node creation app
-Node Creation Tool
+## Keep_Nodes - App per la creazione di nodi di Windows 10
+Node Launcher
 
 
-**SK's :** [Keep_Node app on Github](https://github.com/sk123sk/Keep_nodes)
-- creation of new BEACON and ECDSA nodes in semi-automated way
-- managing nodes: checking status, connected peers, destroy node, keep every node credentials in one place
-- This is alpha version of the program, testnet oriented
-- to install and start app: download from Github and use KeepNodesInstaller.exe
+** SK: ** [App Keep_Node su Github] (https://github.com/sk123sk/Keep_nodes)
+- creazione di nodi BEACON ed ECDSA in modo semiautomatico
+- gestione dei nodi
+- Versione Alpha dell'applicazione, progettata per testnet
+- installazione e avvio: scarica da Github ed esegui KeepNodesInstaller.exe
  
-<p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/95020363-159a3280-0641-11eb-99b9-7bb0c0c114b9.png">
+<p align = "center">
+  <img width = "450" ​​src = "https://user-images.githubusercontent.com/68087535/95020363-159a3280-0641-11eb-99b9-7bb0c0c114b9.png">
 </p>
 
 ## Allthekeeps.com
-Minted TBTC & TDT analysis Tool
+Analisi TBTC e TDT nascoste
 
 
-**Pythonmetaclass’ :** [Allthekeeps.com](https://allthekeeps.com/)
-- deposits: keeps track of all tBTC minted, with its associated TDT’s, size, state and collateral level
-- list of operators and keeps and deposits they’re securing
-- governance info about tBTC
-- mainnet info
-<p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94490716-2c620480-01bd-11eb-9bf4-4264e4666ff4.png">
+** Pythonmetaclass ': ** [Allthekeeps.com] (https://allthekeeps.com/)
+- depositi
+- elenco dei firmatari
+- informazioni su tBTC
+- informazioni mainnet
+<p align = "center">
+  <img width = "450" ​​src = "https://user-images.githubusercontent.com/68087535/94490716-2c620480-01bd-11eb-9bf4-4264e4666ff4.png">
 </p>
 
-## Keep Scan
-Minted TBTC & BTC Scanning Site
+## Mantieni scansione
+Analisi di TBTC e BTC estratti
 
-**Emerido’s :** [Keepscan.com](https://keepscan.com/)
- - cross-blockchain: Bitcoin & Ethereum integrated
- - a very detailed page of the deposit and redeem operations with all transactions are displayed, including those in the Bitcoin blockchain
- - ability to return to tBTC DApp if you accidentally interrupted the process
- - calculation of ETH spent on the operation
- <p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/95000113-51c38980-0594-11eb-8b83-bed4991cbd68.png">
+** Emerido's: ** [Keepscan.com] (https://keepscan.com/)
+ - una pagina molto dettagliata su depositi e transazioni
+ - la possibilità di tornare a tBTC DApp se interrompi accidentalmente il processo
+ - calcolo dell'ETH speso per l'operazione
+ <p align = "center">
+  <img width = "450" ​​src = "https://user-images.githubusercontent.com/68087535/95000113-51c38980-0594-11eb-8b83-bed4991cbd68.png">
 </p>
 
 
 
 ## TBTC explorer
-Minted TBTC Exploration Site
+Revisione del TBTC tritato
 
 
-**NickG's :** [TBTC Explorer](https://keep-explorer.info/) 
-- view information about TBTC deposits on mainnet
-- shows detailed information about the deposit process
-- provides search deposits by address feature, view a transfer history
-<p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94488764-9d9fb880-01b9-11eb-8c87-f6c129f043b3.png">
+** NickG: ** [TBTC Explorer] (https://keep-explorer.info/)
+- informazioni sui depositi TBTC nella mainnet
+- informazioni dettagliate sul processo di deposito
+- cerca i depositi per indirizzo, visualizza la cronologia dei trasferimenti
+<p align = "center">
+  <img width = "450" ​​src = "https://user-images.githubusercontent.com/68087535/94488764-9d9fb880-01b9-11eb-8c87-f6c129f043b3.png">
 </p>
 
 
@@ -214,176 +211,169 @@ Minted TBTC Exploration Site
 
 
 ## Keep-deposit.com
-TBTC deposits Explorer Tool
+Strumento di revisione del deposito TBTC
 
-**Witter's :** [Keep-deposit](https://keep-deposit.com/#/)
-- Explorer for deposits in progress (tracking Bitcoin, Ethereum state and proofs) mainnet
+** Witter's: ** [Keep-deposit] (https://keep-deposit.com/#/)
+- Panoramica dei depositi in corso (tracciamento di Bitcoin, Ethereum) nella mainnet
 
 
-<p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94620809-980fa480-0285-11eb-8c85-a8cea1acd793.png">
+<p align = "center">
+  <img width = "450" ​​src = "https://user-images.githubusercontent.com/68087535/94620809-980fa480-0285-11eb-8c85-a8cea1acd793.png">
 </p>
 
 
 ## keephelper.io
-Minted TBTC Watching Tool
+Strumento di revisione del deposito TBTC
 
 
-**Swe's :** [Keep Helper](https://www.keephelper.io/) 
-- works on mainnet with our ETH address
-- shows information about all and our TBTC holdings, deposits, transfers and mintings
-- view upcoming liquidations, notify, and purchase them
-- request random beacon entries and view previous entries
-<p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94608720-2c710b80-0274-11eb-8710-38b4ba486af6.png">
+** Swe's: ** [Keep Helper] (https://www.keephelper.io/)
+- funziona in mainnet con il tuo indirizzo ETH
+- informazioni su tutti e sui tuoi custodi TBTC, depositi, trasferimenti
+- visualizza le prossime liquidazioni, le comunica e le acquista
+- richiede un beacon casuale di record e guarda i record precedenti
+<p align = "center">
+  <img width = "450" ​​src = "https://user-images.githubusercontent.com/68087535/94608720-2c710b80-0274-11eb-8710-38b4ba486af6.png">
 </p>
 
 ## TBTC Explorer
-TBTC deposits/redeems Explorer Tool
+Strumento di revisione del deposito TBTC
 
-**Mexplo's :** [TBTC Explorer](http://tbtcexplorer.com/)
-- lists of deposits and the list of redeem across the Keep network
-- view details of your address, including all deposits and redeem records of your address, the TBTC balance, and the TDT and FRT.
-- visualize the TBTC lifecycle, complete flow of transactions
-- lists of all available TDTs in the Keep network.
+** Mexplo's: ** [TBTC Explorer] (http://tbtcexplorer.com/)
+- elenchi di depositi e un elenco di rimborsi nella rete Keep
+- Visualizza informazioni dettagliate sul tuo indirizzo, inclusi tutti i record di deposito e rimborso del tuo indirizzo, saldo TBTC e TDT e FRT.
+- visualizzazione dello stato TBTC, elenco completo delle transazioni
+- elenco di tutti i TDT disponibili nella rete Keep.
 
-<p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94812402-0f038500-03cd-11eb-8ed4-b0e5d7c91e35.png">
+<p align = "center">
+  <img width = "450" ​​src = "https://user-images.githubusercontent.com/68087535/94812402-0f038500-03cd-11eb-8ed4-b0e5d7c91e35.png">
 </p>
 
-## Keep Stats
-tBTC System and Keep Network statistics
+## Mantieni statistiche
+tBTC e Keep Network statistics
 
-**Kferret's :** [Keep Stats](https://keepstats.org/)
-- dashboard for KEEP, staking, and tBTC system usage
-<p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94813109-f9428f80-03cd-11eb-8020-8376be57cc9a.png">
+** Kferret's: ** [Keep Stats] (https://keepstats.org/)
+- dashboard per KEEP, staking e tBTC
+<p align = "center">
+  <img width = "450" ​​src = "https://user-images.githubusercontent.com/68087535/94813109-f9428f80-03cd-11eb-8020-8376be57cc9a.png">
 </p>
 
 ## Keep Token explorer
-Keep Token Exploration tool
+Keep Token review
 
-
-**[Keep Explorer](https://keep-explorer.herokuapp.com/keep)**
-- lets us see all sort of data: 
-- Keep Tokens, grants, holders, transactions
-<p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94489123-49e19f00-01ba-11eb-9d10-046318cf5418.png">
+** [Keep Explorer] (https://keep-explorer.herokuapp.com/keep) **
+- Conserva gettoni, sovvenzioni, custodi, transazioni
+<p align = "center">
+  <img width = "450" ​​src = "https://user-images.githubusercontent.com/68087535/94489123-49e19f00-01ba-11eb-9d10-046318cf5418.png">
 </p>
 
-## Keepprice live Site
-Keep Token Price Site
+## Sito live di Keepprice
+Keep token - price
 
 
-**Brian's :** [Keepprice.live](https://keepprice.live)
-- live Keep Token prices and exchanges
+** Di Brian: ** [Keepprice.live] (https://keepprice.live)
+- MANTENERE il prezzo del gettone
 
-<p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94611533-401e7100-0278-11eb-9d04-ed0ac4198e7e.png">
+<p align = "center">
+  <img width = "450" ​​src = "https://user-images.githubusercontent.com/68087535/94611533-401e7100-0278-11eb-9d04-ed0ac4198e7e.png">
 </p>
 
 ## Keepswap.com
-KEEP tokens swapping tool
+KEEP token - scambio
 
-**Evandro Saturnino's :** [Keepswap](https://keepswap.app/)
-- Swap your KEEP tokens and get the best prices across all decentralized crypto exchanges.
+** Evandro Saturnino's: ** [Keepswap] (https://keepswap.app/)
+- Scambia i tuoi token KEEP e ottieni i prezzi migliori su tutti gli scambi crittografici decentralizzati.
 
 
-<p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94694871-abfde980-030b-11eb-8bc1-dcb0f06184dc.png">
+<p align = "center">
+  <img width = "450" ​​src = "https://user-images.githubusercontent.com/68087535/94694871-abfde980-030b-11eb-8bc1-dcb0f06184dc.png">
 </p>
 
-## TBTC Swaps with Lightning Network
-TBTC token swap with LN
+## Scambia TBTC con Lightning Network
+scambiare token TBTC con LN
 
-**Corollari's :** [tbtcswaps](https://tbtcswaps.com/)
-- works with all lightning and web3-enabled wallets
-- Trustless: Based on submarine swaps, all transactions are atomic 
-- Decentralized: Anyone can provide liquidity and the client will automatically pick the cheapest provider
+** Corollari's: ** [tbtcswaps] (https://tbtcswaps.com/)
+- Funziona con tutti i portafogli
+- Affidabile
+- Decentrato
 
-<p align="center">
-  <img width="450" src="https://github.com/corollari/tbtcswaps/blob/master/images/screenshot.png">
+<p align = "center">
+  <img width = "450" ​​src = "https://github.com/corollari/tbtcswaps/blob/master/images/screenshot.png">
 </p>
 
 
 
 ## keeprandom.top
-Random Number Creation Tool
+Generatore di numeri casuali
 
 
-**MerkleTree's :**[keeprandom.top](http://keeprandom.top/)
-- free tool to get a random number in a trustless way, based on keep random beacon
-- simplified process for users to call random numbers from keep random beacon
-<p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94489740-68946580-01bb-11eb-87fe-4b38e39f9263.png">
+** MerkleTree's: ** [keeprandom.top] (http://keeprandom.top/)
+- uno strumento gratuito per ottenere un numero casuale in modo affidabile basato su Random Beacon
+<p align = "center">
+  <img width = "450" ​​src = "https://user-images.githubusercontent.com/68087535/94489740-68946580-01bb-11eb-87fe-4b38e39f9263.png">
 </p>
 
 
 
-## tBTC & Keep Rewards Mechanics
-Report
+## tBTC e Keep Rewards Mechanics
+rapporto
 
+** Ben Longstaff's: ** [Report on Keep Network's Rewards] (https://medium.com/@ben_longstaff/crypto-yield-farmers-take-note-understanding-the-tbtc-and-keep-network-rewards- meccanica-6042e9dc5d97)
 
-**Ben Longstaff's :** [Report on Keep Network's Rewards](https://medium.com/@ben_longstaff/crypto-yield-farmers-take-note-understanding-the-tbtc-and-keep-network-rewards-mechanics-6042e9dc5d97)
-
-<p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94491846-60d6c000-01bf-11eb-8c32-5602efd3fd6b.png">
+<p align = "center">
+  <img width = "450" ​​src = "https://user-images.githubusercontent.com/68087535/94491846-60d6c000-01bf-11eb-8c32-5602efd3fd6b.png">
 </p>
 
-## Insurance for blockchain smart contracts
-Report
+## Assicurazione per smart contract blockchain
+rapporto
 
 
-**Ben Longstaff's :** [Insurance for blockchain smart contracts — using Nexus Mutual to insure using TBTC](https://medium.com/@ben_longstaff/insurance-for-blockchain-smart-contracts-using-nexus-mutual-to-insure-using-tbtc-d01604af5859)
+** Ben Longstaff's: ** [Assicurazione per contratti intelligenti blockchain - utilizzando Nexus Mutual per assicurare utilizzando TBTC] (https://medium.com/@ben_longstaff/insurance-for-blockchain-smart-contracts-using-nexus-mutual- per-assicurare-utilizzando-tbtc-d01604af5859)
 
-<p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94616636-701d4280-027f-11eb-89a4-1973a7e1f7a1.png">
+<p align = "center">
+  <img width = "450" ​​src = "https://user-images.githubusercontent.com/68087535/94616636-701d4280-027f-11eb-89a4-1973a7e1f7a1.png">
 </p>
 
-## Keep Stakedrop vs NuCypher Lockdrop
-Report
+## Mantieni Stakedrop contro NuCypher Lockdrop
+rapporto
 
 
-**Yurataro’s :** [Comparison report on different Stakedrops](https://medium.com/@yurataro2055/keep-network-vs-nucypher-stakedrop-vs-worklock-d557f08d57b1)
-- Interesting comparison between these two stakedrop projects.
-<p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94609265-e10b2d00-0274-11eb-9016-b932426ffe65.png">
+** Yurataro's: ** [Rapporto di confronto su diversi Stakedrops] (https://medium.com/@yurataro2055/keep-network-vs-nucypher-stakedrop-vs-worklock-d557f08d57b1)
+- Interessante confronto tra due progetti di steak-drop.
+<p align = "center">
+  <img width = "450" ​​src = "https://user-images.githubusercontent.com/68087535/94609265-e10b2d00-0274-11eb-9016-b932426ffe65.png">
 </p>
 
 
 ## Keepforum.top
-Community site
+Sito web della comunità
 
 
-**Mayflower1984's :** [Keep Forum](https://forum.keepforum.top/)
-- Forum for Keep Community
-<p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94609725-90e09a80-0275-11eb-97aa-2af52b568263.png">
+** Mayflower1984's: ** [Keep Forum] (https://forum.keepforum.top/)
+- Mantieni il forum della community
+<p align = "center">
+  <img width = "450" ​​src = "https://user-images.githubusercontent.com/68087535/94609725-90e09a80-0275-11eb-97aa-2af52b568263.png">
 </p>
 
 
-## Keep.community Information Site
-Community site
+## Sito informativo di Keep.community
+Sito web della comunità
 
 
-**Badabam's :** [Keep.community](https://keep.community/)
-- lot of information about Keep, the Team, the Token, tBtc, Staking & Faq
+** Badabam's: ** [Keep.community] (https://keep.community/)
+- informazioni su Keep, team, token, tBtc, staking e Faq
 
-<p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94610896-5d067480-0277-11eb-97fe-0e2ef0cdf514.png">
-</p>
-
-
-
-## Awesome Keep Network 
-A curated list of keep-network and tBTC dapp related resources. 
-
-
-**tian7.eth's :** [Awesom-keep-network](https://github.com/ethisscam/awsome-keep-network/blob/master/README.md)
-
-<p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94614278-4ca4c880-027c-11eb-8859-1dccd4b609b6.png">
+<p align = "center">
+  <img width = "450" ​​src = "https://user-images.githubusercontent.com/68087535/94610896-5d067480-0277-11eb-97fe-0e2ef0cdf514.png">
 </p>
 
 
 
+## Awesome Keep Network
+Un elenco curato di risorse relative a keep-network e tBTC dapp.
+
+
+** tian7.eth's: ** [Awesom-keep-network] (https://github.com/ethisscam/awsome-keep-network/blob/master/README.md)
+
+<p align = "center">
+  <img width = "450" ​​src = "https://user-images.githubusercontent.com/68087535/94614278-4ca4c880-027c-11eb-8859-1dccd4b609b6.png">
+</p>
