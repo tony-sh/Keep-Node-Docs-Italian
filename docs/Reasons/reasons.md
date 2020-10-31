@@ -1,25 +1,27 @@
-# Key Reasons for Staking in the Keep Network
-Bitcoin "transferred" to Ethereum has been growing at an exponential rate, and we are still in the very early phases. This [Bitcoin on Ethereum site](https://btconethereum.com/) tracks the different supplies and its growth over time. There is a great opportunity to support this growth with the Keep Network.
+# Motivi chiave per puntare su Keep Network
+Bitcoin "tradotto" in Ethereum sta crescendo in modo esponenziale e siamo ancora in una fase iniziale. Il [Bitcoin sul sito Ethereum] (https://btconethereum.com/) tiene traccia di vari titoli e della loro crescita nel tempo. C'è una grande opportunità per supportare questa crescita con Keep Network.
 
-<p align="center">
-  <img width="800" src="https://user-images.githubusercontent.com/68167410/91514516-903a9a00-e8ac-11ea-800d-281f33f8c2ab.PNG">
+<p align = "center">
+  <img width = "800" src = "https://user-images.githubusercontent.com/68167410/91514516-903a9a00-e8ac-11ea-800d-281f33f8c2ab.PNG">
 </p>
 
-**There are two main value propositions for the participation of individual investors as Keep Network Node Operators/Stakers:**
-* **Project Characteristics**: Sound technical approach that makes Bitcoin available for Ethereum Descentralized Finance Opportunities, preserving the Descentralized, Censorship-Resistant Characteristics that makes Bitcoin so valuable
-* **Strong Return on Investment (ROI)**: Very interesting returns possible from participating as an early Node Operator
+** Ci sono due punti principali per la partecipazione degli investitori come operatori / partecipanti al Keep Network: **
+* ** Caratteristiche del progetto **: un solido approccio tecnico che rende Bitcoin più prezioso e accessibile in Ethereum DeFi pur mantenendo funzionalità decentralizzate e affidabili.
+* ** Elevato ritorno sull'investimento (ROI) **: risultati molto positivi sulla partecipazione anticipata degli operatori dei nodi.
 
 
 
-## Project Characteristics: Decentralized, Censorship-Resistant Bridge from Bitcoin to Ethereum
+## Caratteristiche del progetto: ponte decentralizzato, stabile e affidabile tra Bitcoin ed Ethereum
 
-One of the main Value Propositions of Bitcoin is its Censorship Resistance, i.e. it offers a decentralized, trustless environment for participants to join the network and do transfers without anybody having the ability to stop you from participating. You don't have to ask for permission and nobody can deny you service. Most other value propositions from Bitcoin are derived from this property.
+Uno dei valori fondamentali di bitcoin è la sua sostenibilità, il che significa che offre un ambiente decentralizzato che è sicuro per i partecipanti di unirsi alla rete ed effettuare trasferimenti. Non è necessario chiedere il permesso e nessuno può negarti i servizi. La maggior parte degli altri valori di bitcoin si basa su questa proprietà.
 
-As the Bitcoin network is not well suite for the Descentralized Finance applications that are being built on Ethereum and other Blockchains, participants want to leverage their BTC position without selling, and therefore swapping to a supply pegged equivalent is enticing. But if this bridge across blockchains is centralized, the Censorship Resistance, Trustless aspects might be lost or are at risk of failure. 
-?> Keep Network aims to maintain the Censorship Resistant, Descentralized ethos of Bitcoin to the Bridge controlling the tokenization in Ethereum.
+Poiché la rete Bitcoin non è adatta per applicazioni DeFi costruite su Ethereum e altri blockchain, e i partecipanti vogliono utilizzare la loro posizione BTC senza vendere, stanno usando un bridge (passando a un'alternativa ancorata alla DeFi). Ma se un tale ponte verso la blockchain è centralizzato, gli aspetti di affidabilità e trasparenza potrebbero andare persi.
+?> Keep Network si impegna a mantenere affidabilità e trasparenza, il ponte che controlla la tokenizzazione in Ethereum.
 
-There are alternatives to bridge Bitcoin to Ethereum but there are multiple risks associated with those approaches; in particular, with Ren Protocol, it was recently discovered and discussed in [Twitter](https://twitter.com/ChrisBlec/status/1299029947852390406?s=20) that the Management Team controls the Wallet that holds all the Bitcoin, posing a huge risk to the Bitcoin Owners and by extension to the Decentralized Finance ecosystem that uses renBTC as collateral; as a result they issued a document on their [Path to Decentralization](https://medium.com/renproject/renvm-and-the-road-to-decentralisation-72213c3bee3a). _It is worth noting that Keep Network starts decentralized from the beginning._
+Esistono alternative per collegare Bitcoin a Ethereum, ma ci sono molti rischi associati a questi approcci; in particolare con il protocollo Ren, questo è stato recentemente scoperto e discusso su [Twitter] (https://twitter.com/ChrisBlec/status/1299029947852390406?s=20) - il team di gestione controlla il portafoglio che contiene tutti i bitcoin che crea rischio enorme per i possessori di bitcoin e, di conseguenza, per l'ecosistema DeFi, che utilizza renBTC come garanzia; di conseguenza, hanno pubblicato il documento: [Path to Decentralization] (https://medium.com/renproject/renvm-and-the-road-to-decentralisation-72213c3bee3a). _Vale la pena notare che Keep Network è decentralizzato sin dall'inizio ._
 
 ---
-`Written & assembled by Keep Community.`
-`Contributors: Ramaruro, EstebanK`
+`Fonte dalla documentazione ufficiale di Keep Team, modificata e aggiunta dalla comunità. "[Fonte] (https://keep-network.gitbook.io/staking-documentation/)"
+
+ʻAutori: Ramaruro, EstebanK`
+`Traduzione: weraanrktl#7699`
